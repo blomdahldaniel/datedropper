@@ -23,5 +23,6 @@ Polish    | { lang: 'pl' }
 Portuguese | { lang: 'pt' }
 Russian    | { lang: 'ru' }
 Slovenian  | { lang: 'si' }
+Swedish    | { lang: 'sv' }
 Ukrainian  | { lang: 'uk' }
 Turkish   | { lang: 'tr' }
